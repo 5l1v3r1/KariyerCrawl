@@ -1,3 +1,5 @@
+# @ykslkrkci tarafından Persona Non Grata için hazırlanmıştır.
+# @raifpy Sonsuz teşekkürlerimi sunarım.
 from bs4 import BeautifulSoup as bsoup
 import requests
 import lxml
